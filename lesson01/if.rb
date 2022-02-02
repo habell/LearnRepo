@@ -1,0 +1,1 @@
+puts "I dont know, why i write this text, but my teacher need this"
