@@ -1,0 +1,1 @@
+say "Radnom text"
